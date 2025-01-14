@@ -1,5 +1,4 @@
 # Fashion MNIST Classification
-*BAN6420 Module 5 Assignment*
 
 ## Overview
 The Project demonstrates how to implement a Convolutional Neural Network (CNN) using both Python and R to classify images from the Fashion MNIST dataset into the correct categories. The goal is to use the CNN to identify various fashion items from the dataset and make predictions. The code is provided in both Python and R to demonstrate the implementation in two different environments.
